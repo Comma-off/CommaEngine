@@ -45,6 +45,8 @@ CommaEngine.killWindow()
 - Basic tasks can be done using CommaEngine
 - Window creation, physics space, sprites, text, and simple drawing
 - Functional API foundation (no classes, pure functions)
+     
+     
 2026–2027 - v0.0.2 to v1.0.0: Becoming a Real Engine
 - More features without directly touching PyGame
 - Sprite rendering
@@ -52,6 +54,8 @@ CommaEngine.killWindow()
 - Sound support
 - Delta‑time system
 - Basic utilities (timers, colors, shapes)
+      
+     
 2028–20XX - v1.0.1 to v?.?.?: The Dream Era
 - More advanced features
 - Maybe super basic 3D (no promises, just vibes)
