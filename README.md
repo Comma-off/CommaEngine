@@ -1,4 +1,10 @@
-# CommaEngine
+#   __      _____             _             __  
+#  / /     | ____|_ __   __ _(_)_ __   ___  \ \ 
+# / /      |  _| | '_ \ / _` | | '_ \ / _ \  \ \
+# \ \   _  | |___| | | | (_| | | | | |  __/  / /
+#  \_\ ( ) |_____|_| |_|\__, |_|_| |_|\___| /_/ 
+#      |/               |___/                   
+    
 CommaEngine is an "engine" made as a wrapper for pygame and pymunk.
 
 # Usage
